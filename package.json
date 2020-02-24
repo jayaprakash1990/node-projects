@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Restful webservices API to return weather forecast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaprakash1990/node-projects.git"
+  },
+  "author": "Jayaprakash Ravichandran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaprakash1990/node-projects/issues"
+  },
+  "homepage": "https://github.com/jayaprakash1990/node-projects#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastify": "^2.12.0"
+  }
+}
