@@ -20,6 +20,6 @@
   "homepage": "https://github.com/jayaprakash1990/node-projects#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "fastify": "^2.12.0"
+    "fastify": "^2.15.1"
   }
 }
